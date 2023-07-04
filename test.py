@@ -24,6 +24,8 @@ import imgproc
 import file_utils
 import json
 import zipfile
+import warnings
+warnings.filterwarnings("ignore")
 
 from craft import CRAFT
 
